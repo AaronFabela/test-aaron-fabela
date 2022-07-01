@@ -2,6 +2,7 @@
 FullStack Challenge EasyLex
 
 #Paso a paso
+
 #Iniciar Servidor
 1. Ingresar a la carpeta "server"
 2. Montar servidor con el siguiente comando
@@ -13,6 +14,7 @@ FullStack Challenge EasyLex
 #Posterior a eso, podemos iniciar el cliente web
 
 #Iniciar Cliente
+
 1. Ingresar a la carpeta "cliente"
 ## "cd client/online-lex"
 2. Instalar los "node_modules"
@@ -21,4 +23,5 @@ FullStack Challenge EasyLex
 ## npm start
 
 #¡LISTO!
+
 Tenemos nuestra aplicación corriendo
