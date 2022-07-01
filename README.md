@@ -11,9 +11,9 @@ FullStack Challenge EasyLex
 ### Se conecto correctamente a la DB
 ### Servidor corriendo en puerto 4000
 
-##Posterior a eso, podemos iniciar el cliente web
+## Posterior a eso, podemos iniciar el cliente web
 
-##Iniciar Cliente
+## Iniciar Cliente
 
 1. Ingresar a la carpeta "cliente"
 ### `cd client`
