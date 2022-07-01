@@ -1,12 +1,12 @@
 # test-aaron-fabela
 FullStack Challenge EasyLex
 
-##Paso a paso
+## Paso a paso
 
-##Iniciar Servidor
+## Iniciar Servidor
 1. Ingresar a la carpeta "server"
 2. Montar servidor con el siguiente comando
-### "npm start"
+### `npm start`
 3. Esperar a que se realice la conexión, por consola debe mostrar los siguientes mensaejs
 ### Se conecto correctamente a la DB
 ### Servidor corriendo en puerto 4000
@@ -16,12 +16,12 @@ FullStack Challenge EasyLex
 ##Iniciar Cliente
 
 1. Ingresar a la carpeta "cliente"
-### "cd client"
+### `cd client`
 2. Instalar los "node_modules"
-### npm install
+### `npm install`
 3. Iniciar cliente con el comando
-### npm start
+### `npm start`
 
-##¡LISTO!
+## ¡LISTO!
 
 Tenemos nuestra aplicación corriendo
